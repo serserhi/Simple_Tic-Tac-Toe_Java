@@ -1,0 +1,18 @@
+type: edu
+custom_name: Welcome to the battlefield!
+files:
+  - name: src/tictactoe/Main.java
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5397#comment
+status: Failed
+feedback:
+  message: |-
+    Error in test #1
+
+    Program ran out of input. You tried to read more than expected.
+  time: "Mon, 17 Mar 2025 11:33:17 UTC"
+record: 1
